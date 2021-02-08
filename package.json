@@ -1,0 +1,25 @@
+{
+  "name": "demo-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moulik-deepsource/demo-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moulik-deepsource/demo-vue/issues"
+  },
+  "homepage": "https://github.com/moulik-deepsource/demo-vue#readme"
+}
