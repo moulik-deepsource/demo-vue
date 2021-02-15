@@ -6,5 +6,5 @@ enabled = true
 
   [analyzers.meta]
   dialect="typescript"
-  plugins = ["vue"]
+  plugins = ["vue", "jest", "cypress"]
   environment = ["browser"]
